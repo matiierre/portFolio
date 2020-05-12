@@ -11,7 +11,7 @@ class Resume extends Component{
                 <Grid>
                     <Cell col={4}>
                         <div style={{textAlign:'center'}}>
-                            <img className="avatar-img" src="https://matierre.com/img/matierre2.jpg" 
+                            <img className="avatar-img"  src="https://matierre.com/img/matierre2.jpg" 
                             alt="avatar"
                             />
                         </div>
