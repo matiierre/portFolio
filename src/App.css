@@ -1,0 +1,127 @@
+.header-color {
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.landing-grid {
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    position: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.resume-right-col {
+    background: #27221F;
+    color: white;
+    padding: 2em;
+}
+
+.contact-grid hr {
+    border-top: 5px dotted black;
+    width: 50%;
+    margin: auto;
+}
+
+.contact-list i {
+    font-size: 50px;
+    padding-right: 40px;
+}
+
+@media (min-width: 1024px) {
+    .project-grid {
+        display: flex;
+    }
+    .card-container {
+        margin: auto;
+    }
+    .contact-body {
+        position: fixed;
+    }
+}
+
+.contact-body {
+    margin: auto;
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.contact-grid {
+    text-align: center;
+    justify-content: center;
+    width: 88%;
+    height: 550px;
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+@media(max-width: 1024px) {
+    .card-container {
+        margin-bottom: 20px;
+    }
+    .contact-body {
+        position: flex;
+    }
+}
+
+.avatar-img {
+    height: 250px;
+    margin-top: 5em;
+    border-radius: 50%;
+}
+
+.banner-text {
+    background-color: black;
+    opacity: .8;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.banner-text h1 {
+    font-size: 66px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.banner-text hr {
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto;
+}
+
+.banner-text p {
+    color: white;
+    font-size: 30px;
+    padding: 1em;
+    text-align: center;
+}
+
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+
+.social-links a {
+    color: white;
+    font-size: 4em;
+    padding: 8px;
+}
