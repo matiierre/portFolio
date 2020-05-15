@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/%7BportFolio%7D/static/css/main.ec0863ce.chunk.css",
-    "main.js": "/%7BportFolio%7D/static/js/main.dc4f05a6.chunk.js",
-    "main.js.map": "/%7BportFolio%7D/static/js/main.dc4f05a6.chunk.js.map",
-    "runtime-main.js": "/%7BportFolio%7D/static/js/runtime-main.ba5deda7.js",
-    "runtime-main.js.map": "/%7BportFolio%7D/static/js/runtime-main.ba5deda7.js.map",
-    "static/css/2.e4346227.chunk.css": "/%7BportFolio%7D/static/css/2.e4346227.chunk.css",
-    "static/js/2.6d272ed3.chunk.js": "/%7BportFolio%7D/static/js/2.6d272ed3.chunk.js",
-    "static/js/2.6d272ed3.chunk.js.map": "/%7BportFolio%7D/static/js/2.6d272ed3.chunk.js.map",
-    "index.html": "/%7BportFolio%7D/index.html",
-    "precache-manifest.7446876291b9671603fad60030162ce8.js": "/%7BportFolio%7D/precache-manifest.7446876291b9671603fad60030162ce8.js",
-    "service-worker.js": "/%7BportFolio%7D/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/%7BportFolio%7D/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.ec0863ce.chunk.css.map": "/%7BportFolio%7D/static/css/main.ec0863ce.chunk.css.map",
-    "static/js/2.6d272ed3.chunk.js.LICENSE.txt": "/%7BportFolio%7D/static/js/2.6d272ed3.chunk.js.LICENSE.txt"
+    "main.css": "/portFolio/static/css/main.ec0863ce.chunk.css",
+    "main.js": "/portFolio/static/js/main.f52216ab.chunk.js",
+    "main.js.map": "/portFolio/static/js/main.f52216ab.chunk.js.map",
+    "runtime-main.js": "/portFolio/static/js/runtime-main.c291ae49.js",
+    "runtime-main.js.map": "/portFolio/static/js/runtime-main.c291ae49.js.map",
+    "static/css/2.e4346227.chunk.css": "/portFolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.6d272ed3.chunk.js": "/portFolio/static/js/2.6d272ed3.chunk.js",
+    "static/js/2.6d272ed3.chunk.js.map": "/portFolio/static/js/2.6d272ed3.chunk.js.map",
+    "index.html": "/portFolio/index.html",
+    "precache-manifest.0e12b411225908634ba5bb858a78642f.js": "/portFolio/precache-manifest.0e12b411225908634ba5bb858a78642f.js",
+    "service-worker.js": "/portFolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/portFolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.ec0863ce.chunk.css.map": "/portFolio/static/css/main.ec0863ce.chunk.css.map",
+    "static/js/2.6d272ed3.chunk.js.LICENSE.txt": "/portFolio/static/js/2.6d272ed3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba5deda7.js",
+    "static/js/runtime-main.c291ae49.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.6d272ed3.chunk.js",
     "static/css/main.ec0863ce.chunk.css",
-    "static/js/main.dc4f05a6.chunk.js"
+    "static/js/main.f52216ab.chunk.js"
   ]
 }
